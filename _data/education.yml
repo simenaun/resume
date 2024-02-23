@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Geomorphology and Geomatics
+  uni: University of Oslo
+  year: 2020 &mdash; Present
+#  award: Most likely to succeed
+  summary: Thesis "Validating snow depth measurements from the ICESat-2 space laser in vegetated terrain"
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Engineering, Military Geomatics
+  uni: Norwegian Military Academy
+  year: 2013 &mdash; 2016
+#  awards:
+#    - award: Summa Cumme Laude graduate
+#  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Non-commisioned officer (NCO) training
+  uni: Norwegian Army NCO school
+  year: 2012
+  summary: Squad leader training
